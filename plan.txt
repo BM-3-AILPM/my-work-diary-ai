@@ -1,0 +1,29 @@
+MVP Features (What to finish first)
+Sprint 1
+
+✅ Employee Submission Page
+
+Feedback
+Daily Work Diary
+
+✅ PostgreSQL Schema
+
+✅ Synthetic Data
+
+Sprint 2
+
+✅ Sentiment Analysis
+
+✅ Manager Dashboard
+
+Sprint 3
+
+✅ Attrition Prediction
+
+✅ Leadership Dashboard
+
+Sprint 4
+
+✅ Azure Deployment
+
+✅ SHAP Explainability
