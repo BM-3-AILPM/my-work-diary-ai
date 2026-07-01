@@ -44,3 +44,13 @@ Dashboard widgets your UI can show
 📊 Manager Comparison
 📉 Negative Trend Alerts
 🎯 AI-generated recommendations
+
+
+
+############### exmaple#######
+| feedback_id | employee_id | department  | date       | feedback_text                     | source       |
+| ----------- | ----------- | ----------- | ---------- | --------------------------------- | ------------ |
+| 1001        | E101        | Engineering | 2026-06-01 | Great manager and flexible hours. | Survey       |
+| 1002        | E205        | HR          | 2026-06-01 | Too much paperwork.               | Teams        |
+| 1003        | E101        | Engineering | 2026-06-10 | Workload is becoming stressful.   | Pulse Survey |
+
