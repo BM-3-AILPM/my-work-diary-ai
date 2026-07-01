@@ -27,3 +27,20 @@ Sprint 4
 ✅ Azure Deployment
 
 ✅ SHAP Explainability
+
+
+
+######## UI Notes #####
+
+Dashboard widgets your UI can show
+😊 Overall Sentiment Score
+📈 Sentiment Trend (weekly/monthly)
+🏢 Department-wise Sentiment
+🔥 Burnout Risk
+🚨 Attrition Risk
+⭐ Employee Mood Timeline
+☁️ Word Cloud of common concerns
+💬 Recent Anonymous Feedback
+📊 Manager Comparison
+📉 Negative Trend Alerts
+🎯 AI-generated recommendations
