@@ -77,3 +77,6 @@ Text Box -> How are you feeling Today -> "" > daily Feedback (100 words)
 	9-10 -> what went best 
 
 
+
+########## sample #####
+https://github.com/pplonski/datasets-for-start/blob/master/employee_attrition/HR-Employee-Attrition-All.csv
