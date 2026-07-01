@@ -54,3 +54,26 @@ Dashboard widgets your UI can show
 | 1002        | E205        | HR          | 2026-06-01 | Too much paperwork.               | Teams        |
 | 1003        | E101        | Engineering | 2026-06-10 | Workload is becoming stressful.   | Pulse Survey |
 
+
+----------Discussion on raw data set---
+1. Employee page 
+
+| FeedbackID | EmployeeID | Date       | Feedback  -Text Box              satisfaction ratio  | Sr -Comments| tenure| Willingness to Stay back
+| ---------- | ---------- | ---------- | -------------------------------- |  
+| F1001      | E001       | 2026-01-03 | My manager always supports me.   |5	      | E001       | 2026-01-03 | My manager always supports me.   |5
+| F1002      | E002       | 2026-01-04 | Workload has increased recently. |8        | E001       | 2026-01-03 | My manager always supports me.   |5
+| F1003      | E087       | 2026-01-05 | I enjoy working with my team.    |  10     | E001       | 2026-01-03 | My manager always supports me.   |5
+
+
+Details -> file
+
+Text Box -> How are you feeling Today -> "" > daily Feedback (100 words)  
+
+1-10 -> Satisfaction
+1-10-> manager relationship
+1-10-> Delivery satisfaction 
+ if less than 5 -> text Box
+	5-8 -> Text box Better
+	9-10 -> what went best 
+
+
